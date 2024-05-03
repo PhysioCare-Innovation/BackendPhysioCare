@@ -8,11 +8,11 @@
         <version>2.7.5</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.theraphy</groupId>
-    <artifactId>Backend-Theraphy</artifactId>
+    <groupId>com.physiocare</groupId>
+    <artifactId>Backend-PhysioCare</artifactId>
     <version>1.0</version>
-    <name>Theraphy</name>
-    <description>Theraphy RESTful API, made with java and springboot, applying domain-driven architecture approach.</description>
+    <name>PhysioCare</name>
+    <description>PhysioCare RESTful API, made with java and springboot, applying domain-driven architecture approach.</description>
     <properties>
         <java.version>17</java.version>
     </properties>

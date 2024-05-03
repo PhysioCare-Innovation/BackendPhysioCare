@@ -1,7 +1,7 @@
-package com.theraphy.backend.test.step;
+package com.physiocare.backend.test.step;
 
-import com.theraphy.backend.appointments.resource.AppointmentResource;
-import com.theraphy.backend.appointments.resource.CreateAppointmentResource;
+import com.physiocare.backend.appointments.resource.AppointmentResource;
+import com.physiocare.backend.appointments.resource.CreateAppointmentResource;
 import io.cucumber.core.internal.com.fasterxml.jackson.core.JsonProcessingException;
 import io.cucumber.core.internal.com.fasterxml.jackson.databind.ObjectMapper;
 import io.cucumber.java.en.And;

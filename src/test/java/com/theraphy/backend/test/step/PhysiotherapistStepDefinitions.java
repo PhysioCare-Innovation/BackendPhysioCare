@@ -1,7 +1,7 @@
-package com.theraphy.backend.test.step;
+package com.physiocare.backend.test.step;
 
-import com.theraphy.backend.profile.resource.CreatePhysiotherapistResource;
-import com.theraphy.backend.profile.resource.PhysiotherapistResource;
+import com.physiocare.backend.profile.resource.CreatePhysiotherapistResource;
+import com.physiocare.backend.profile.resource.PhysiotherapistResource;
 import io.cucumber.core.internal.com.fasterxml.jackson.core.JsonProcessingException;
 import io.cucumber.core.internal.com.fasterxml.jackson.databind.ObjectMapper;
 import io.cucumber.java.en.And;
