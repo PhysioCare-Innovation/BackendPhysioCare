@@ -27,12 +27,12 @@ public class OpenApiConfiguration{
                         .title("PhysioCare API")
                         .version(applicationVersion)
                         .description(applicationDescription)
-                        .termsOfService("https://digitalholics-3-0.github.io/Front-End-PhysioCare/tos")
+                        .termsOfService("https://innovationtech-3-0.github.io/Front-End-PhysioCare/tos")
                         .license(new License()
                                 .name("Apache 2.0 License")
-                                .url("https://digitalholics-3-0.github.io/Front-End-PhysioCare/license"))
+                                .url("https://innovationtech-3-0.github.io/Front-End-PhysioCare/license"))
                         .contact(new Contact()
-                                .url("https://digitalholics-3-0.github.io/Front-End-PhysioCare.studio")
+                                .url("https://innovationtech-3-0.github.io/Front-End-PhysioCare.studio")
                                 .name("PhysioCare,.studio")));
 
     }
